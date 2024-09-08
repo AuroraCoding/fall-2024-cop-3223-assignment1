@@ -1,3 +1,6 @@
+// Thomas Leaver, 5577745
+// COP 3223C - Assignment 1
+
 // Includes
 #include <stdio.h>
 #include <math.h>
